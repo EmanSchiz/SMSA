@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1rLq5mpeMIoK0lK8h3x4PEfqnDqyy13y5
 """
 
-!pip install transformers tweepy pandas matplotlib seaborn streamlit
 # Import required libraries
 import streamlit as st
 from transformers import pipeline
